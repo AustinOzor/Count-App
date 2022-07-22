@@ -1,0 +1,44 @@
+body{
+  margin-block: 5rem;
+}
+
+.count--body{
+  background-color: cornsilk;
+ border:  5px solid chartreuse ;
+ max-width: 600px;
+ margin: auto;
+ text-align: center;
+ height: 200px;
+ top: 5rem;
+ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ padding: 10px;
+ background: rgba( 184, 233, 134, 0.45 );
+box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+backdrop-filter: blur( 9px );
+-webkit-backdrop-filter: blur( 9px );
+border-radius: 10px;
+border: 1px solid rgba( 255, 255, 255, 0.18 );
+}
+.count-header{
+  color: red;
+}
+.increment-btn {
+    background: rgb(20, 220, 110);
+    padding: 10px;
+    border: none;
+    margin: 10px;
+    width: 100px;
+    border-radius: 25px;
+    color: white;
+    font-weight: 600;
+}
+.decrement-btn {
+    background: darkorange;
+    padding: 10px;
+    border: none;
+    margin: 10px;
+    width: 100px;
+    border-radius: 25px;
+    color: white;
+    font-weight: 600;
+}
